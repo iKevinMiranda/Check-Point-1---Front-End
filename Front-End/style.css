@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+
+    margin: 0;
+    border: 0;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+header {
+    width: 100%;
+    height: 200px;
+    
+}
+
+video {
+    margin-bottom: 100px;
+}
+
+body {
+    background-image: url(./jandira-no-mapa-turistico-brasileiro-2019-2021.png);
+    background-size: cover;
+    height: auto;
+    padding: 20px;
+}
+
+#first  {
+    font-size: 20px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.842);
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    color:rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(79, 165, 83, 0.849);
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    position: fixed;
+}
+
+#DivLateral{
+
+    color: white;
+    border-width:2px;
+    background-color: rgba(17, 17, 32, 0.582);
+    margin-left: 350px;
+    padding: 100px;
+    margin-bottom: 200px
+}
+
+#DivA{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#FB {
+    width: 80px;
+}
+
+
+#YT {
+    position: relative;
+    width: 80px;
+}
+
+
+
